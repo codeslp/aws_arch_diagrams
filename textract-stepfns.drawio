@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T21:25:59.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-Hm_TaUcNnwVj0nem5Qq" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T23:10:43.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="G8CnNN_9hP83I8qb5APX" version="20.8.23" type="github">
   <diagram name="Page-1" id="TptWw6vDW5uZPmBL174k">
-    <mxGraphModel dx="2234" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1940" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,15 +223,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qApgE1zXyVd_ZcpVIJfP-62" value="" style="group;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-460" y="40" width="120" height="427" as="geometry" />
-        </mxCell>
-        <mxCell id="qApgE1zXyVd_ZcpVIJfP-57" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=5;fillColor=#3333FF;gradientColor=#C9D6FF;gradientDirection=south;opacity=60;direction=east;" vertex="1" parent="qApgE1zXyVd_ZcpVIJfP-62">
-          <mxGeometry x="60" width="20" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="qApgE1zXyVd_ZcpVIJfP-61" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Working on the parser now. Have to alter it to just do 1 table&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=5;fillColor=#3333FF;gradientColor=#C9D6FF;gradientDirection=south;opacity=60;direction=west;" vertex="1" parent="qApgE1zXyVd_ZcpVIJfP-62">
-          <mxGeometry y="340" width="120" height="87" as="geometry" />
-        </mxCell>
         <mxCell id="qApgE1zXyVd_ZcpVIJfP-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/halloween-free-1/64/01_halloween-costume-suit-devil-128.png;fontFamily=Helvetica;fontSize=11;fillColor=#3333FF;gradientColor=#C9D6FF;gradientDirection=south;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="-363.91" y="220" width="23.91" height="23.91" as="geometry" />
         </mxCell>
@@ -412,8 +403,8 @@
             <mxPoint x="-210" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qApgE1zXyVd_ZcpVIJfP-112" value="&lt;p style=&quot;line-height: 100%; font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;IS GOOD?&lt;/font&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whitespace=wrap;perimeter=rhombusPerimeter;gradientColor=#D4FFD9;fillColor=#FBFFC7;" vertex="1" parent="1">
-          <mxGeometry x="-141" y="846.09" width="60" height="48.91" as="geometry" />
+        <mxCell id="qApgE1zXyVd_ZcpVIJfP-112" value="&lt;p style=&quot;line-height: 0%; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Is table&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;good?&lt;/font&gt;&lt;/p&gt;" style="shape=rhombus;html=1;dashed=0;whitespace=wrap;perimeter=rhombusPerimeter;gradientColor=#D4FFD9;fillColor=#FBFFC7;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="840" width="71" height="55" as="geometry" />
         </mxCell>
         <mxCell id="qApgE1zXyVd_ZcpVIJfP-113" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=17.333333333333332;endSize=4.42;width=8;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -443,7 +434,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qApgE1zXyVd_ZcpVIJfP-118" value="&lt;p style=&quot;line-height: 0%; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Prod aggregator,&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;validation deleter,&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;success logger&lt;/font&gt;&lt;/p&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;spacing=-4;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-131" y="922.81" width="27.19" height="27.19" as="geometry" />
+          <mxGeometry x="-123.60000000000001" y="926.9599999999999" width="27.19" height="27.19" as="geometry" />
         </mxCell>
         <mxCell id="qApgE1zXyVd_ZcpVIJfP-119" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=28;endSize=5.52;width=8;fillColor=#e1d5e7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9673a6;" edge="1" parent="1" source="qApgE1zXyVd_ZcpVIJfP-112" target="qApgE1zXyVd_ZcpVIJfP-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -486,7 +477,7 @@
             <mxPoint x="-71" y="870" as="sourcePoint" />
             <mxPoint x="-31" y="800" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-111" y="760" />
+              <mxPoint x="-105" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -497,7 +488,7 @@
         </mxCell>
         <mxCell id="qApgE1zXyVd_ZcpVIJfP-130" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=17.333333333333332;endSize=4.42;width=8;fillColor=#FFFFFF;textOpacity=80;" edge="1" parent="1" target="qApgE1zXyVd_ZcpVIJfP-114">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-101" y="950" as="sourcePoint" />
+            <mxPoint x="-90" y="950" as="sourcePoint" />
             <mxPoint x="-40.29" y="1077" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-51" y="950" />
@@ -584,6 +575,15 @@
         </mxCell>
         <mxCell id="qApgE1zXyVd_ZcpVIJfP-144" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;DEPRECATED&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFCC;fontFamily=Helvetica;fontSize=11;fillColor=#e51400;gradientDirection=south;opacity=60;fontColor=#ffffff;strokeColor=#B20000;fillStyle=solid;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="-1070" y="-130" width="1360" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="qApgE1zXyVd_ZcpVIJfP-62" value="" style="group;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-370" y="900" width="100" height="427" as="geometry" />
+        </mxCell>
+        <mxCell id="qApgE1zXyVd_ZcpVIJfP-61" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Working on the parser now. Have to alter it to just do 1 table&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=5;fillColor=#3333FF;gradientColor=#C9D6FF;gradientDirection=south;opacity=60;direction=west;" vertex="1" parent="qApgE1zXyVd_ZcpVIJfP-62">
+          <mxGeometry y="340" width="100" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="qApgE1zXyVd_ZcpVIJfP-57" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=5;fillColor=#3333FF;gradientColor=#C9D6FF;gradientDirection=south;opacity=60;direction=east;" vertex="1" parent="qApgE1zXyVd_ZcpVIJfP-62">
+          <mxGeometry x="50" y="-260" width="10" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
