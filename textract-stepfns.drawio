@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T19:38:52.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="bcVo9z5oNG4jKbc-10dn" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T19:39:49.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pdGvCWIKLerMxVyTvYTu" version="21.3.2" type="github">
   <diagram name="Page-1" id="TptWw6vDW5uZPmBL174k">
     <mxGraphModel dx="2313" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -222,9 +222,6 @@
           <mxGeometry x="-0.0109" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qApgE1zXyVd_ZcpVIJfP-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/halloween-free-1/64/01_halloween-costume-suit-devil-128.png;fontFamily=Helvetica;fontSize=11;fillColor=#3333FF;gradientColor=#C9D6FF;gradientDirection=south;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="-363.91" y="220" width="23.91" height="23.91" as="geometry" />
         </mxCell>
         <mxCell id="qApgE1zXyVd_ZcpVIJfP-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=17.333333333333332;endSize=4.42;width=8;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="qApgE1zXyVd_ZcpVIJfP-43" target="qApgE1zXyVd_ZcpVIJfP-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -586,7 +583,7 @@
           <mxGeometry x="50" y="-260" width="10" height="600" as="geometry" />
         </mxCell>
         <mxCell id="1-QTYW2aF2J0WStt7FWO-113" value="num_choices" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-373" y="1440" width="115" height="230" as="geometry">
+          <mxGeometry x="-478.90999999999997" y="1380" width="115" height="230" as="geometry">
             <mxRectangle x="-475" y="1470" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
